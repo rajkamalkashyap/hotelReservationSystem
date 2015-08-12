@@ -1,0 +1,65 @@
+.login{
+	
+	width:1350px;
+	height:100px;
+	margin:0 50px 0 0;
+	background-color:#999;
+	border:thick;
+	border-color:#0C3;
+	background-image:url(xbgdark_2.jpg);
+}
+.innerlogin{
+	float:right;
+	background-color:#CCC;;
+  width:500px;
+  height:100px;
+  margin:0 0 0 30px;
+  background-image:url(xbgdark_2.jpg);
+}
+.lowerbar{
+	
+	height:500px;
+	
+}
+.leftbar
+{
+	float:left;
+	width:728px;
+	height:500px;
+	background-color:#0FF;
+	background-image:url(EVE_Online.jpg);
+	
+}
+.rightbar
+{
+	float:right;
+	width:600px;
+	height:480px;
+	background-color:#333;
+	padding:10px;
+	
+}
+.xx
+{
+	color:#F00;
+}
+h1{
+	color:#999;
+}
+h3{
+	color:#FFF;
+}
+.header{
+	width:1360px;
+	height:154px;
+	background-color:#333;
+}
+#loginbutton{
+	color:#CCC;
+	font:"Lucida Console", Monaco, monospace;
+	font-size:23px;
+	border-radius:10px 10px 10px 10px;
+	background-image:url(xbgdark_2.jpg);
+	border-color:#666;
+	border-bottom:#CCC;
+}

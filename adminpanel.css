@@ -1,0 +1,33 @@
+.adminpanel{
+	width:400px;
+	height:300px;
+	background-color:#09F;
+	margin-left:500px;
+	border-radius:15px 15px 15px 15px;
+	background-image:url(Dark-Wood-Background-Iphone-Wallpapers.jpg);
+	
+}
+.header{
+	width:1360px;
+	height:154px;
+	background-image:url(Opera-Background-Wood.jpg);
+}
+.mainform{
+	padding:40px 20px 50px 60px;
+}
+.full{
+	background-image:url(Opera-Background-Wood.jpg);
+	height:500px;
+}
+#loginbutton{
+	color:#CCC;
+	font:"Lucida Console", Monaco, monospace;
+	font-size:23px;
+	border-radius:10px 10px 10px 10px;
+	background-image:url(xbgdark_2.jpg);
+	border-color:#666;
+	border-bottom:#CCC;
+}
+.color{
+	color:#FFF;
+}

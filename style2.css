@@ -1,0 +1,71 @@
+.mainbar{
+	width=300px;
+	height:300px;
+	background-color:#666;
+	margin:50px 50px 50px 50px;
+	padding:0 300px 20px 300px;
+	
+}
+.main{
+width:1100px;
+height:auto;
+background-color:#999;
+border:#333;
+margin:0 0 0 135px;
+}
+.inside1{
+width:1100px;
+height:180px;
+background-color:#999;
+}
+.inside2{
+	width:1100px;
+height:140px;
+background-color:#666;
+	
+}
+.cc{
+	font-size:80px;
+	font:Arial, Helvetica, sans-serif;
+}
+.inside3{
+	width:550px;
+	height:430px;
+	float:left;
+	background-color:#666;
+	padding:10px;
+}
+.inside4{
+	width:530px;
+	height:450px;
+	float:right;
+	background-color:#666;
+}
+.aa{
+	font-size:18px;
+	font-stretch:expanded;
+	font-style:oblique;
+	color:#CCC;
+	font-weight:800;
+}
+p{
+	font-size:18px;
+	color:#CCC;
+}
+#bod{
+	background-image:url(Opera-Background-Wood.jpg);
+}
+h1{
+	color:#FFF;
+	font-size:24px;
+	
+}
+#loginbutton{
+	color:#CCC;
+	font:"Lucida Console", Monaco, monospace;
+	font-size:23px;
+	border-radius:10px 10px 10px 10px;
+	background-image:url(xbgdark_2.jpg);
+	border-color:#666;
+	border-bottom:#CCC;
+}

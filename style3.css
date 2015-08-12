@@ -1,0 +1,134 @@
+* {
+	margin:0;
+	padding:0;
+}
+body  {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background:#666;
+	color:#535353;
+}
+a {
+	font-size:12px;
+	color:#3588c8;
+	text-decoration:underline;
+}
+a:hover {
+	font-size:12px;
+	color:#3588c8;
+	text-decoration:none;
+}
+#container { 
+	width: 980px;  
+	margin: 0 auto;
+} 
+#header { 
+} 
+.author {
+	text-align:right;
+	color:#000000;
+	padding-bottom:2px;
+}
+.author a {
+	color:#a46d00;
+	text-decoration:underline;
+}
+.author a:hover {
+	color:#a46d00;
+	text-decoration:none;
+}
+.headerPic {
+}
+.icons {
+	text-align:center;
+}
+.icons li {
+	list-style:none;
+	display:inline;
+}
+#sidebar1 {
+	float: left;
+	width: 545px;
+}
+#mainContent { 
+	margin: 0 0 0 585px; 
+} 
+h1, h2 {
+	padding:0 0 20px 0;
+}
+.picLeft {
+	float:left;
+	padding:0 15px 10px 0;
+}
+#footer {
+	background:#121210;
+	color:#535353;
+	padding:15px 0;
+	margin:0 0 0 0;
+}
+#footer p {
+	text-align:center;
+} 
+#footer a {
+	color:#666b71;
+	text-decoration:underline;
+}
+#footer a:hover {
+	color:#666b71;
+	text-decoration:none;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+img {
+	border:0;
+}
+.logo {
+	float:left;
+}
+#navcontainer {
+	background:url(images/menuBackground.jpg) repeat-x left top;
+	color: White;
+	float: left;
+	width: 100%
+}
+#navcontainer .mainMenu ul {
+	padding-left: 0;
+	margin-left: 0;
+	background-color: #036;
+	color: White;
+	font-family: arial, helvetica, sans-serif;
+}
+.mainMenu {
+	width:980px;
+	margin:0 auto;
+}
+#navcontainer ul li { 
+	display: inline; 
+}
+#navcontainer ul li a {
+	padding:12px 20px;
+	color:#e4e4e4;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #7a7876;
+	font-size:18px;
+}
+#navcontainer ul li a:hover {
+	background:url(images/menuActive.jpg) repeat-x left top;
+	color: #fff;
+}
+#navcontainer #active a {
+	background:url(images/menuActive.jpg) repeat-x left top;
+	color: #fff;
+}
+p{
+	color:#CCC;
+}
+h1,h2 {
+	color:#999;
+}
+	
